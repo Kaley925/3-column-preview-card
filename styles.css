@@ -1,0 +1,61 @@
+.card1{
+    background-color: hsl(31, 77%, 52%);
+    height:400px;
+    left:300px;
+    top:300px;
+}
+.card2{
+    background-color: hsl(184, 100%, 22%);
+    height:400px;
+    left:600px;
+    top:300px;
+}
+.card3{
+    background-color: hsl(179, 100%, 13%);
+    height:400px;
+    left:900px;
+    top:300px;
+}
+.card{
+    color:white;
+    width: 300px;
+}
+.btn{
+    background-color: transparent;
+    border-radius: 40%;
+    border: 1px solid white;
+    width: 150px;
+    height: 50px;
+    position:absolute;
+    top: 300px;
+}
+.btn:hover{
+    color:white;
+    cursor: grab;
+}
+.card-text{
+    font-size: 16px;
+    font-family: 'Lexend Deca', sans-serif;
+    color:rgba(255, 255, 255, 0.623);
+    padding-left: 1rem;
+    
+}
+.card{
+    
+    position:absolute;
+}
+.card-title{
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 30px;
+    padding-top: 1rem;
+    padding-bottom:1rem;
+    position:relative;
+    
+    transform: scale(0.7, 1.5);
+
+    
+}
+svg{
+    position:relative;
+    left:25px;
+}
